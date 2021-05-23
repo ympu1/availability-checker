@@ -1,4 +1,4 @@
-module availability-checker
+module github.com/ympu1/availability-checker
 
 go 1.16
 
