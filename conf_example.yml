@@ -1,0 +1,7 @@
+HttpTimeoutSec: 10
+GoroutinesMaxCount: 100
+URLsFile: urls.txt
+TelegramBotToken: your_bot_token_here
+TelegramChatID: 1
+TelegramURLTemplate: https://api.telegram.org/bot%s/sendMessage
+CheckerIntervalMin: 720
